@@ -1,7 +1,7 @@
 # Testing Notes
 
 This test is written in java to test hotel booking html form, feature tested in this project are:
- - Add boking
+ - Add booking
  - Delete booking
 
 
